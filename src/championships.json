@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Primera División de España",
+    "image": "laliga.png",
+    "slug": "la-liga"
+  },
+  {
+    "name": "Liga Premier de Inglaterra",
+    "image": "premierleague.png",
+    "slug": "premier-league"
+  },
+  {
+    "name": "Bundesliga de Alemania",
+    "image": "bundesliga.png",
+    "slug": "bundesliga"
+  },
+  {
+    "name": "Ligue 1 de Francia",
+    "image": "ligue1.png",
+    "slug": "ligue-1"
+  },
+  {
+    "name": "Serie A de Italia",
+    "image": "seriea.png",
+    "slug": "seria-a"
+  },
+  {
+    "name": "Liga de Colombia",
+    "image": "ligacolombia.png",
+    "slug": "liga-colombiana"
+  },
+  {
+    "name": "Liga Profesional de Argentina",
+    "image": "ligaargentina.png",
+    "slug": "liga-argentina"
+  },
+  {
+    "name": "bwin Liga de Portugal",
+    "image": "ligaportugal.png",
+    "slug": "liga-portugal"
+  },
+  {
+    "name": "Eredivisie de Holanda",
+    "image": "ligaholanda.png",
+    "slug": "liga-holanda"
+  },
+  {
+    "name": "Copa Mundial FIFA",
+    "image": "copamundial.png",
+    "slug": "copa-mundial"
+  },
+  {
+    "name": "Eurocopa",
+    "image": "eurocopa.png",
+    "slug": "eurocopa"
+  },
+  {
+    "name": "Copa América",
+    "image": "copaamerica.png",
+    "slug": "copa-america"
+  }
+]
